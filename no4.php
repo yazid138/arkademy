@@ -4,7 +4,8 @@ function cetak_gambar($jb)//membuat fungsi
 {
     $jb;//jml baris
     $jk = $jb;//jml kolom
-
+    
+    echo"---Panjang---";
     for ($i=1; $i <= $jb; $i++) //fungsi membuat baris
     {
         for ($j=1; $j <=$jk ; $j++) //fungsi membuat kolom
