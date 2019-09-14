@@ -10,7 +10,7 @@ function cetak_gambar($jb)//membuat fungsi
     {
         for ($j=1; $j <=$jk ; $j++) //fungsi membuat kolom
         {
-            if ($j>1 && $j<$jk) //untuk kolom 2 - < $jk "="
+            if ($j>1 && $j<$jk) //untuk kolom 2 - < $jk print "="
             {
                 echo"= ";//kolom
             } else {
