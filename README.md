@@ -1,4 +1,4 @@
-# arkademy
+# Arkademy
 Testing Arkademy
 
 Perkenalkan Nama saya Ma'isy Yazid Imaaduddin
